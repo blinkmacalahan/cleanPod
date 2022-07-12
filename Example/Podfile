@@ -1,0 +1,6 @@
+use_frameworks!
+target 'cleanPod_Tests' do
+  pod 'cleanPod', :path => '../'
+  
+  
+end
